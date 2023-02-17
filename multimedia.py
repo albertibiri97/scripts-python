@@ -13,7 +13,7 @@ if len(sys.argv) < 2:
     print ('Debes indicar la url del canal')
     sys.exit()
 
-DEVELOPER_KEY = "AIzaSyDRKJT0IdWsLrbSjj3FbVAfVUEvYPTKNjo"
+DEVELOPER_KEY = "AIzaSyDRdWsLrbSjjUEvYPTKNjo"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 

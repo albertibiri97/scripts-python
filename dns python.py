@@ -1,6 +1,6 @@
 #importamos la librería os y metemos el comando de IONOS en una variable
 import os
-comando = 'curl -X GET https://ipv4.api.hosting.ionos.com/dns/v1/dyndns?q=ZGU0OGI5ZGE0MmJlNGNjMjg2MzlhZDI1N2E2OTUzMDAuN0w4a2lDVXkyR29WY2FvWHhzVG5nN3BoQ2VSNXhKdUlkbEQ3ZHZLZWZSWExvSC1RLXNNT1JCYW1RYjRFQ0RzZ2p2QXNHSXNnS0JDeGxIejZVRkhwT1E'
+comando = 'curl -X GET https://ipv4.api.hosting.ionos.com/dns/v1/dyndns?q=ZGUMjg2MzlhZDI1N2E2OTUzMDA29WY2FvWHhzVG5nN3BoQ2VSNXhKdUlkbEQ3ZHZLZWT2p2QXT1E'
 #Declaramos una variable para la IP actualizada
 import urllib.request
 Ip_actual = (urllib.request.urlopen('https://ident.me').read().decode('utf-8'))

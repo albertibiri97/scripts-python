@@ -13,7 +13,7 @@ if len(sys.argv) < 2:
     sys.exit()
 
 #Declaro la clave de google developer
-DEVELOPER_KEY = "AIzaSyDRKJT0IdWsLrbSjj3FbVAfVUEvYPTKNjo"
+DEVELOPER_KEY = "AIzaSbSjj3FbVAfVUEvYPTKNjo"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
